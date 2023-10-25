@@ -1,5 +1,5 @@
-# AD9851
-This is a clone of repository at https://gitlab.com/dds6740637/AD9851/
+# AD9850-library
+
 
 
 ## Intro
