@@ -15,7 +15,7 @@ In your code, create an object that represents the DDS.
 ```
 AD9851 ad9851;
 ```
-To use serial data loading define your pins and use smething like
+To use serial data loading define your pins and use something like
 
 ```
 ad9851.InitSerial(W_CLK,FQ_UD,RESET,DATA);
